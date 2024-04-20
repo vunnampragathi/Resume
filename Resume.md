@@ -19,7 +19,8 @@
 * **BTECH** in **Electronics and Communication Engineering**, VR Siddhartha, INDIA
 
 ## Experience
-* Worked as Data Analyst at Wish Works
+* Worked as Data Engineer at Kpi Data Sys
+* Worked as Data Analyst at Mercedes Benz
 * worked as Data Analyst Intern at railways in signal and telecommunication department.
 * worked as IoT Intern at Ramson TechLabs in Internet Of Things.
 * attended workshop on Facebook bot at Elan & NVISION.
@@ -28,12 +29,16 @@
 * Customer Churn Analysis
 * Sentimental Analysis on Social Media
 * Fraud Detection
+* Air Pollution Prediction
+* Crime Analysis
+* Covid Data Analysis
 
 ## Skills
 * **Programming/Scripting languages** : C, Python, SQL, MATLAB, R
 * **Databases** : MySQL, Databricks
 * **Data Visualization** : Tableu, MS EXCEL, Power Bi
 * **Tools** : SQL, EXCEL, Tableu, Mongo Db
+* **Cloud** : Azure, AWS, Snowflake
 
 
 ## Achievements
